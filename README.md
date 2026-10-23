@@ -42,16 +42,16 @@ Bộ sưu tập (Collection) gồm 5 request kiểm thử các phương thức H
 Dưới đây là hình ảnh thực tế khi thực thi các request trong Postman:
 
 * **1. GET - Danh sách bài viết:**  
-  ![GET Danh sách](screenshots/image_1.png)
+  ![GET Danh sách](Ảnh chụp màn hình 2026-10-23 072721.png)
 
 * **2. GET - Chi tiết bài viết 1:**  
-  ![GET Chi tiết](screenshots/image_2.png)
+  ![GET Chi tiết](Ảnh chụp màn hình 2026-10-23 072839.png)
 
 * **3. POST - Tạo bài viết thư:**  
-  ![POST Tạo mới](screenshots/image_3.png)
+  ![POST Tạo mới](Ảnh chụp màn hình 2026-10-23 072925.png)
 
 * **4. PATCH - Cập nhật tiêu đề bài viết 1:**  
-  ![PATCH Cập nhật](screenshots/image_4.png)
+  ![PATCH Cập nhật](Ảnh chụp màn hình 2026-10-23 072958.png)
 
 * **5. DELETE - Xóa bài viết 1:**  
-  ![DELETE Xóa](screenshots/image_5.png)
+  ![DELETE Xóa](Ảnh chụp màn hình 2026-10-23 073021.png)
