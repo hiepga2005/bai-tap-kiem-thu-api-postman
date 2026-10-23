@@ -1,9 +1,8 @@
 # Bài tập Kiểm thử API bằng Postman
 
 ## Thông tin sinh viên
-* **Họ và tên:** [Điền họ tên]
-* **Mã sinh viên:** [Điền mã sinh viên]
-* **Lớp:** [Điền lớp]
+* **Họ và tên:** [Nguyễn Văn Hiệp]
+* **Mã sinh viên:** [23010859]
 
 ---
 
